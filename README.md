@@ -18,6 +18,7 @@ A curated list of Linkerd Service Mesh related tools, frameworks and articles.
     - [Labs](#labs)
     - [Community Repositories](#community-repositories)
     - [Community](#community)
+    - [Contribute](#contribute)
 
 ### Official Projects
 
@@ -70,3 +71,6 @@ A curated list of Linkerd Service Mesh related tools, frameworks and articles.
 
 - [Slack](linkerd.slack.com)
 - [Twitter](https://twitter.com/Linkerd)
+
+### Contribute
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
